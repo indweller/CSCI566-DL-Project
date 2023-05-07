@@ -4,6 +4,8 @@ This repo contains the code for our CSCI 566 - Deep Learning course project. We 
 
 Our experiments were performed on the ImageNet dataset. We used Gaussian noise and FGSM attack to generate noisy images. For classification, we used ViT Base Patch 16 image classifier. This repository contains the code for creation of the dataset, fine-tuning of the MAE, generation of the reconstructed images and image classification. Our experiments were performed on Google Colab Pro and Google Cloud.
 
+For downloading the fine-tuned models: click [here](https://drive.google.com/drive/folders/1Dj_nhXOVIibm9ThWV2vuR7ttb0LvqQZp?usp=share_link)
+
 Contributors:
  - Prashanth Ravichandar
  - Alex Korman
